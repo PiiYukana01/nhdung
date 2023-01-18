@@ -1,18 +1,18 @@
 let allMusic = [{
         name: "Trời Giấu Trời Mang Đi",
-        artist: "Nguyễn Hoàng Dũng",
+        artist: "NguyễnHoàngDũng",
         img: "music-1",
         src: "music-1"
     },
     {
         name: "Giấc Mơ Rất Thơ",
-        artist: "Nguyễn Hoàng Dũng",
+        artist: "NguyễnHoàngDũng",
         img: "music-2",
         src: "music-2"
     },
     {
         name: "Tình Thật Tình Mơ",
-        artist: "Nguyễn Hoàng Dũng",
+        artist: "NguyễnHoàngDũng",
         img: "music-3",
         src: "music-3"
     },
